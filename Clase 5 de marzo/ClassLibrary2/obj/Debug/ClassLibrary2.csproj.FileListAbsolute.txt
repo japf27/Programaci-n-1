@@ -1,0 +1,1 @@
+c:\users\lab3\documents\visual studio 2013\Projects\ConsoleApplication1\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
