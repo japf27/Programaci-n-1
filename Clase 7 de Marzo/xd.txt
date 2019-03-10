@@ -1,0 +1,3 @@
+realizar un pro que me permita determinar los estados de un semaforo, si el semaforo esta en verde mostrar el mensaje detenerse o seguir o advertencia
+sobrecargar los metodos anteriores para carlos maria luis y fernando
+crear un programa que me permita ingresar el nombre apellido y direccion desde consola imprimir el mensaje buenas noches, tu vives en la direccion, utilizar encapsulamiento para ese ejercicio

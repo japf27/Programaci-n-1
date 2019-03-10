@@ -1,0 +1,17 @@
+C:\Users\Lab3\Desktop\Nueva carpeta\MetodosParametros\Principal\bin\Debug\Principal.exe.config
+C:\Users\Lab3\Desktop\Nueva carpeta\MetodosParametros\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Nueva carpeta\MetodosParametros\Principal\bin\Debug\Principal.exe
+C:\Users\Lab3\Desktop\Nueva carpeta\MetodosParametros\Principal\bin\Debug\Principal.pdb
+C:\Users\Lab3\Desktop\Nueva carpeta\MetodosParametros\Principal\bin\Debug\ClassLibrary1.dll
+C:\Users\Lab3\Desktop\Nueva carpeta\MetodosParametros\Principal\obj\Debug\Principal.exe
+C:\Users\Lab3\Desktop\Nueva carpeta\MetodosParametros\Principal\obj\Debug\Principal.pdb
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\bin\Debug\Principal.exe.config
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\bin\Debug\Principal.exe
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\bin\Debug\Principal.pdb
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\bin\Debug\ClassLibrary1.dll
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\obj\Debug\Principal.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\obj\Debug\Principal.csproj.CopyComplete
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\obj\Debug\Principal.exe
+C:\Users\Jorge\Desktop\Nueva carpeta\MetodosParametros\Principal\obj\Debug\Principal.pdb
